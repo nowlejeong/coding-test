@@ -1,6 +1,8 @@
 # For coding-test
 there are some codes for coding test.
 - It has been using by 'expo' that is support to make mobile app.
+  - (If you have expo App, can simulate this code in ios)
+     exp://qw-f29.anonymous.test.exp.direct:80
 - Home.js : It is Clone code of searching by hash tag in Twiiter.
 - Loading.js : It just exist at "loading".
 - App.js : It has written codes to using 'twitter API'.
