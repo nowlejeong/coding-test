@@ -8,3 +8,5 @@ there are some codes for coding test.
 ### Notion link
 If you want to know about this app for detail, visit the Notion page.
 https://www.notion.so/9274dd57eed94e6f895aa488ea5f99df#8b5063094f054b29b437f80eea999201
+
+![Alt logo](https://delight.weeat.kr/images/logo.png)
